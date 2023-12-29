@@ -20,8 +20,8 @@
 
 ## Technologies used :
 
-React JS 
-Tailwind CSS
-Recharts Library 
-CoinGecko Cryptocurrency APIs
+React JS, 
+Tailwind CSS,
+Recharts Library,
+CoinGecko Cryptocurrency APIs,
 React Context API
